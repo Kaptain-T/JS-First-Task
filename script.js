@@ -1,0 +1,1 @@
+alert("Name: Anthony Ezighi. \n Height: 5.8ft. \n Country: Nigeria")
